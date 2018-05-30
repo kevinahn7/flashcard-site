@@ -3,10 +3,18 @@ h1 {
 }
 
 .flashcard {
-  border: 2px black solid;
-  padding: 1em;
+  border: 1px darkgrey solid;
+  padding: 1.5em 1em 3em 1em;
   margin: 1em 0;
   text-align: center;
+  width: 20em;
+  height: 10em;
+  border-radius: 2%
+}
+
+.flashcard:hover {
+  box-shadow: 10px 5px 5px gray;
+  border: 2px darkgrey solid;
 }
 
 .definition {
