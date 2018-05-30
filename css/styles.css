@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+}
+
+.flashcard {
+  border: 2px black solid;
+  padding: 1em;
+  margin: 1em 0;
+  text-align: center;
+}
+
+.definition {
+  display: none;
+}
